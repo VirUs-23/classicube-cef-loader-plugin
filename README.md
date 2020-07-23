@@ -11,3 +11,7 @@ Loader plugin for [classicube-cef-plugin](https://github.com/SpiralP/classicube-
   - [classicube_cef_loader_linux_i686.so](https://github.com/SpiralP/classicube-cef-loader-plugin/releases/latest/download/classicube_cef_loader_linux_i686.so) for Linux 32 bit ClassiCube
   - [classicube_cef_loader_macos_x86_64.dylib](https://github.com/SpiralP/classicube-cef-loader-plugin/releases/latest/download/classicube_cef_loader_macos_x86_64.dylib) for macOS 64 bit ClassiCube
 - Put the dll into the `plugins` folder where `ClassiCube.exe` lives
+
+if ( linux arm 32 bit 3B+) 
+Get: (Error Sorry you can't)
+after (uprade)
